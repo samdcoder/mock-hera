@@ -4,3 +4,4 @@ SELECT * from addfs;
 SELECT * from spyrm;
 SELECT * from vbboa;
 SELECT * from eoike;
+SELECT * from bkxxy;
