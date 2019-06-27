@@ -5,3 +5,4 @@ SELECT * from spyrm;
 SELECT * from vbboa;
 SELECT * from eoike;
 SELECT * from bkxxy;
+SELECT * from wxpax;
