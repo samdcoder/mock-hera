@@ -6,3 +6,4 @@ SELECT * from vbboa;
 SELECT * from eoike;
 SELECT * from bkxxy;
 SELECT * from wxpax;
+SELECT * from psrvn;
